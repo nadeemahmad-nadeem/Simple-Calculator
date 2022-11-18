@@ -1,0 +1,14 @@
+E:\Exd Cource\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+E:\Exd Cource\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+E:\Exd Cource\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+E:\Exd Cource\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+E:\Exd Cource\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+E:\Exd Cource\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+E:\Exd Cource\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+E:\Exd Cource\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Exd Cource\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+E:\Exd Cource\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+E:\Exd Cource\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+E:\Exd Cource\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+E:\Exd Cource\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+E:\Exd Cource\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
